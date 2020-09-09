@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201566791710",
+    "firebase_url": "https://workplicity-f489a.firebaseio.com",
+    "project_id": "workplicity-f489a",
+    "storage_bucket": "workplicity-f489a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201566791710:android:bd574ef28721458926260f",
+        "android_client_info": {
+          "package_name": "com.codesolutions101.Workplicity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201566791710-ubgugamot3243d7s3b2ur2n48ko1m2qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrxvCUm-KQ9VmMPtkKs_52bodzn63igw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201566791710-ubgugamot3243d7s3b2ur2n48ko1m2qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
